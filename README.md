@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-#### Add Functionality
+#### Added Functionality
 
 The app has the following functionalities
 
