@@ -6,15 +6,6 @@
 </div>
 <br/>
 
-### Design Files
-
-- [Extra Small (Size < 576px), Small (Size >= 576px) - output](https://assets.ccbp.in/frontend/content/react-js/emoji-game-sm-output-v2.png)
-- [Extra Small (Size < 576px), Small (Size >= 576px) - won game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-won-game-sm-output-v2.png)
-- [Extra Small (Size < 576px), Small (Size >= 576px) - lose game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lose-game-sm-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - output](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lg-output-v2.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - won game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-won-game-lg-output.png)
-- [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - lose game](https://assets.ccbp.in/frontend/content/react-js/emoji-game-lose-game-lg-output.png)
-
 #### Add Functionality
 
 The app has the following functionalities
